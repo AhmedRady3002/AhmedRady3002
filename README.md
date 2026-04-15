@@ -30,7 +30,7 @@
 
 🔥 Passionate about backend performance, system design, and problem solving.
 
-🎓 Bachelor's Degree in Computer Science – Minia University
+🎓 Bachelor's Degree in  Information System – Minia University
 
 ---
 

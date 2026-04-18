@@ -31,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/telegram.png" style="height:34px; object-fit:contain;"/></a> &nbsp;
 
   <a href="https://github.com/AhmedRady3002">
-    <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/github.png" style="height:34px; object-fit:contain;"/></a>
+    <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/github.png" style="height:34px; object-fit:contain;"/></a>&nbsp;
 </p>
 ### Technical Skills & Tools
 

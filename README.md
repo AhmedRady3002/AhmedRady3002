@@ -27,9 +27,6 @@
   <a href="https://www.linkedin.com/in/ahmedrady3002">
     <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/linkedin.png" style="height:34px; object-fit:contain;"/></a> &nbsp;
 
-  <a href="https://wa.me/01120765756">
-    <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/whatsapp.png" style="height:34px; object-fit:contain;"/></a> &nbsp;
-
   <a href="https://t.me/ِAhmedRady3002">
     <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/telegram.png" style="height:34px; object-fit:contain;"/></a> &nbsp;
 

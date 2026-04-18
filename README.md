@@ -33,8 +33,9 @@
   <a href="https://t.me/ِAhmedRady3002">
     <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/telegram.png" style="height:34px; object-fit:contain;"/></a> &nbsp;
 
-  <a href="https://github.com/AhmedRady3002">
-    <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/github.png" style="height:34px; object-fit:contain;"/></a>&nbsp;
+<a href="https://github.com/AhmedRady3002">
+  <img src="https://img.icons8.com/fluency/48/github.png" height="50"/>
+</a> &nbsp;
 </p>
 ### Technical Skills & Tools
 

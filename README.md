@@ -11,14 +11,9 @@
   src="https://raw.githubusercontent.com/AhmedRady3002/GitHUpPhoto/master/ahmed1.jpeg"> 
 
 <p>
-  <a href="mailto:a.rady3002@gmail.com">
-    <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/gmail.png" style="height:34px; object-fit:contain;"/></a> &nbsp;
-
-  <a href="https://www.linkedin.com/in/ahmedrady3002">
-    <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/linkedin.png" style="height:34px; object-fit:contain;"/></a> &nbsp;
-
-  <a href="https://github.com/AhmedRady3002">
-    <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/github.png" style="height:34px; object-fit:contain;"/></a>
+<a href="https://legendary-daffodil-84babe.netlify.app ">
+  <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/portfolio.png" height="50"/>
+</a> &nbsp;
 </p>
 
 ### Connect With Me 

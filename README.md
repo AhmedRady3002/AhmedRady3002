@@ -37,5 +37,5 @@
 ### Technical Skills & Tools
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,postgres,git,github,html,css,postman,swagger&perline=9" style="height:120px;"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,postgres,git,github,html,css,js,typescript,react,redis,hangfire,signalr,nlog,postman,swagger&perline=9" style="height:120px;"/>
 </p>

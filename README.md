@@ -8,7 +8,7 @@
   align="right" 
   alt="Coding" 
   width="300" 
-  src="https://raw.githubusercontent.com/AhmedRady3002/GitHUpPhoto/master/ahmed1.jpeg"> 
+  src="https://raw.githubusercontent.com/AhmedRady3002/GitHUpPhoto/master/MYPhoto.jpeg"> 
 
 <p>
 <a href="https://legendary-daffodil-84babe.netlify.app">

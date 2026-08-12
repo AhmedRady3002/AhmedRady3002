@@ -14,7 +14,7 @@
 <a href="https://legendary-daffodil-84babe.netlify.app">
   <img src="https://img.icons8.com/fluency/48/domain.png" height="50"/>
 </a> &nbsp;
-  <a href=" https://drive.google.com/file/d/1FdbE5v0iCA19NPEQH3zfk-lCaFKN1uwn/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1FdbE5v0iCA19NPEQH3zfk-lCaFKN1uwn/view?usp=sharing">
   <img src="https://img.icons8.com/fluency/48/resume.png" height="50"/>
 </a> &nbsp;
 </p>

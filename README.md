@@ -71,7 +71,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Tabib API**](https://github.com/AhmedRady3002/Tabib-Wep-API-Using-ASP.NET-Core-) | Healthcare / doctor platform API with JWT auth, Redis caching, real-time SignalR hubs, Hangfire background jobs, Paymob payments and Twilio & email notifications | C#, ASP.NET Core, EF Core, SQL Server, Redis, Docker, GitHub Actions |
+| [**Tabib API**](https://github.com/AhmedRady3002/Tabib-Wep-API-Using-ASP.NET-Core-) | Clinic & doctor appointment API with JWT + refresh tokens, real-time SignalR notifications, Hangfire background jobs and Paymob online payments | C#, ASP.NET Core 8, EF Core, SQL Server, Docker, GitHub Actions |
 | [**BookStore Web App**](https://github.com/AhmedRady3002/BookStore-WepApp-Using-MVC) | Book store web app with Identity authentication and real-time chat using SignalR | C#, ASP.NET Core MVC, EF Core, SQL Server |
 | [**Zero Waste**](https://github.com/AhmedRady3002/Graduation-Project) | Graduation project: cross-platform mobile app | Dart, Flutter |
 | [**Portfolio**](https://github.com/AhmedRady3002/MyProtofolio) | My personal portfolio website | HTML, CSS |

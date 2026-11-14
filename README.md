@@ -20,7 +20,7 @@
   align="right"
   alt="Ahmed Rady"
   width="260"
-  src="https://raw.githubusercontent.com/AhmedRady3002/GitHUpPhoto/master/MYPhoto.jpeg">
+  src="https://raw.githubusercontent.com/AhmedRady3002/GitHUpPhoto/master/MYPhoto.png">
 
 ## 👨‍💻 About Me
 

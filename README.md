@@ -24,6 +24,8 @@
     <img src="https://img.icons8.com/color/96/gmail-new.png" height="50" alt="Gmail"/></a> &nbsp;
   <a href="https://www.linkedin.com/in/ahmedrady3002">
     <img src="https://img.icons8.com/color/96/linkedin.png" height="50" alt="LinkedIn"/></a> &nbsp;
+  <a href="https://wa.me/201120765756">
+    <img src="https://img.icons8.com/color/96/whatsapp--v1.png" height="50" alt="WhatsApp"/></a> &nbsp;
   <a href="https://t.me/AhmedRady3002">
     <img src="https://img.icons8.com/color/96/telegram-app.png" height="50" alt="Telegram"/></a>
 </p>
